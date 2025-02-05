@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://source.unsplash.com/1200x400/?technology,coding,programming" alt="Coding Banner">
+</p>
+
 # Hi there! I am Mahajabin Tokon, Front End Developer 👋
 
 I am a **Computer Science graduate** from the **University of Alberta**, with a strong passion for **front-end web development** and a solid foundation in **React**.  
