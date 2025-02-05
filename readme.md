@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/vxVNx9PV/Git-Hub-Banner.jpg" alt="Coding Banner" width="100%" height="400">
+  <img src="https://i.ibb.co/vxVNx9PV/Git-Hub-Banner.jpg" alt="Coding Banner" style="width: 100%; height: 400px; object-fit: cover;">
 </p>
 
 # Hi there! I am Mahajabin Tokon, Front End Developer 👋
