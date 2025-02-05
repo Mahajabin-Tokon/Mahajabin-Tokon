@@ -26,7 +26,7 @@ I am currently **exploring Next.js** 🚀
 ---
 
 ## 🔗 **Connect with Me**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](your-linkedin-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](www.linkedin.com/in/mahajabintokon)
 
 ---
 
@@ -37,5 +37,3 @@ I am currently **exploring Next.js** 🚀
 🌍 **Languages Used:**  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahajabin-Tokon&layout=compact&theme=dark&hide_border=true)  
 
-🚀 **Streak Data:**  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mahajabin-Tokon&theme=dark&hide_border=true)  
