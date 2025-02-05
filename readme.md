@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://source.unsplash.com/1200x400/?technology,coding,programming" alt="Coding Banner">
+  <img src="https://i.ibb.co/vxVNx9PV/Git-Hub-Banner.jpg" alt="Coding Banner">
 </p>
 
 # Hi there! I am Mahajabin Tokon, Front End Developer 👋
