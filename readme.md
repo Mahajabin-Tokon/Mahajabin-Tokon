@@ -36,12 +36,12 @@ Below, you can explore some of my projects that showcase my skills and dedicatio
     <td align="center" width="50%">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahajabin-Tokon&theme=dark&hide_border=true" 
            alt="GitHub Contributions" 
-           style="height: 200px; width: auto;"/>
+           style="height: 200px; "/>
     </td>
     <td align="center" width="50%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahajabin-Tokon&layout=compact&theme=dark&hide_border=true&langs_count=8" 
            alt="Top Languages" 
-           style="height: 200px; width: auto;"/>
+           style="height: 200px; "/>
     </td>
   </tr>
 </table>
