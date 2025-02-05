@@ -2,9 +2,9 @@
 
 I am a **Computer Science graduate** from the **University of Alberta**, with a strong passion for **front-end web development** and a solid foundation in **React**.  
 
-Below, you can explore some of my projects that showcase my skills and dedication to creating **responsive and dynamic user experiences**.  
-
 I am currently **exploring Next.js** 🚀  
+
+Below, you can explore some of my projects that showcase my skills and dedication to creating **responsive and dynamic user experiences**.  
 
 ---
 
@@ -31,9 +31,17 @@ I am currently **exploring Next.js** 🚀
 ---
 
 ## 📊 **GitHub Stats**
-🔥 **Total Contributions:**  
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Mahajabin-Tokon&theme=dark&hide_border=true)  
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahajabin-Tokon&theme=dark&hide_border=true" alt="GitHub Contributions" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahajabin-Tokon&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-🌍 **Languages Used:**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahajabin-Tokon&layout=compact&theme=dark&hide_border=true)  
 
