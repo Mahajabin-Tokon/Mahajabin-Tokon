@@ -50,10 +50,10 @@ I am currently **exploring Next.js** 🚀
 
 ## 📊 **GitHub Stats**
 🔥 **Total Contributions:**  
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark&hide_border=true)  
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Mahajabin-Tokon&theme=dark&hide_border=true)  
 
 🌍 **Languages Used:**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahajabin-Tokon&layout=compact&theme=dark&hide_border=true)  
 
 🚀 **Streak Data:**  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark&hide_border=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mahajabin-Tokon&theme=dark&hide_border=true)  
