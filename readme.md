@@ -9,37 +9,19 @@ I am currently **exploring Next.js** 🚀
 ---
 
 ## 🚀 **Expertise**
-- 🎨 **HTML, CSS, Tailwind**  
-- ⚡ **JavaScript, React**  
-- 🐍 **Python**  
-- 🧮 **MATLAB**  
+🎨 **HTML, CSS, Tailwind**, ⚡ **JavaScript, React**, 🐍 **Python**, 🧮 **MATLAB**  
 
 ## 🔧 **Comfortable**
-- 🌍 **Node.js, Express.js**  
-- 🎭 **Django**  
-- 🗄️ **MongoDB**  
-- ☕ **Java**  
-- 🔄 **Agile (Scrum Methodology)**  
+🌍 **Node.js, Express.js**, 🎭 **Django**, 🗄️ **MongoDB**, ☕ **Java**, 🔄 **Agile (Scrum Methodology)**  
 
 ## 📌 **Familiar**
-- 🛢 **MySQL**  
-- ⚙️ **C**  
-- 🔗 **jQuery, PHP**  
-- 🎨 **Bootstrap, WordPress**  
+🛢 **MySQL**, ⚙️ **C**, 🔗 **jQuery, PHP**, 🎨 **Bootstrap, WordPress**  
 
 ## 🛠 **Tools**
-- 🖥 **VS Code, GitHub**  
-- 🎨 **Figma**  
-- 🔍 **Chrome Dev Tools**  
-- 📱 **Android Studio**  
-- 🌐 **Netlify, Vercel**  
-- 📡 **Postman**  
-- 🌍 **WordPress**  
+🖥 **VS Code, GitHub**, 🎨 **Figma**, 🔍 **Chrome Dev Tools**, 📱 **Android Studio**, 🌐 **Netlify, Vercel**, 📡 **Postman**, 🌍 **WordPress**  
 
 ## 💡 **Soft Skills**
-- 🗣 **Communication**  
-- 🤝 **Teamwork**  
-- 🎯 **Leadership**  
+🗣 **Communication**, 🤝 **Teamwork**, 🎯 **Leadership**  
 
 ---
 
