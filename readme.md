@@ -1,3 +1,48 @@
-Hi there! 👋
+Hi there! I am Mahajabin Tokon, Front End Developer 👋
 
 I am a Computer Science graduate from the University of Alberta, with a strong passion for front-end web development and a solid foundation in React. Below, you can explore some of my projects that showcase my skills and dedication to creating responsive and dynamic user experiences.
+
+I am currently exploring Next.js
+
+## 🚀 **Expertise:**
+- 🎨 **HTML, CSS, Tailwind**  
+- ⚡ **JavaScript, React**  
+- 🐍 **Python**  
+- 🧮 **MATLAB**  
+
+## 🔧 **Comfortable:**
+- 🌍 **Node.js, Express.js**  
+- 🎭 **Django**  
+- 🗄️ **MongoDB**  
+- ☕ **Java**  
+- 🔄 **Agile (Scrum Methodology)**  
+
+## 📌 **Familiar:**
+- 🛢 **MySQL**  
+- ⚙️ **C**  
+- 🔗 **jQuery, PHP**  
+- 🎨 **Bootstrap, WordPress**  
+
+## 🛠 **Tools:**
+- 🖥 **VS Code, GitHub**  
+- 🎨 **Figma**  
+- 🔍 **Chrome Dev Tools**  
+- 📱 **Android Studio**  
+- 🌐 **Netlify, Vercel**  
+- 📡 **Postman**  
+- 🌍 **WordPress**  
+
+## 💡 **Soft Skills:**
+- 🗣 **Communication**  
+- 🤝 **Teamwork**  
+- 🎯 **Leadership**  
+
+LinkedIn Link: 
+
+## 📊 **GitHub Stats**
+
+- 🔥 **Total Contributions:** `![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark&hide_border=true)`  
+- 🌍 **Languages Used:**  
+  `![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark&hide_border=true)`  
+- 🚀 **Streak Data:**  
+  `![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark&hide_border=true)`
